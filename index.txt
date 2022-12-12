@@ -1,0 +1,2 @@
+Witaj Świecie
+Jest git
